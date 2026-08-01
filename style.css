@@ -1,0 +1,199 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
+scroll-behavior:smooth;
+}
+
+body{
+background:#081221;
+color:white;
+}
+
+header{
+position:fixed;
+top:0;
+left:0;
+width:100%;
+padding:18px 8%;
+display:flex;
+justify-content:space-between;
+align-items:center;
+background:#0c1830;
+z-index:1000;
+box-shadow:0 4px 15px rgba(0,0,0,.3);
+}
+
+.logo{
+display:flex;
+align-items:center;
+gap:12px;
+font-size:28px;
+font-weight:bold;
+color:#4cc9ff;
+}
+
+.logo i{
+font-size:34px;
+}
+
+nav{
+display:flex;
+gap:25px;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+font-weight:500;
+transition:.3s;
+}
+
+nav a:hover{
+color:#4cc9ff;
+}
+
+.login-btn{
+background:#4cc9ff;
+padding:10px 20px;
+border-radius:30px;
+color:#000;
+font-weight:bold;
+cursor:pointer;
+}
+
+.hero{
+padding:140px 8% 80px;
+display:flex;
+align-items:center;
+justify-content:space-between;
+gap:60px;
+flex-wrap:wrap;
+}
+
+.hero-text{
+flex:1;
+}
+
+.hero-text h1{
+font-size:60px;
+line-height:1.2;
+}
+
+.hero-text span{
+color:#4cc9ff;
+}
+
+.hero-text p{
+margin:25px 0;
+font-size:20px;
+line-height:1.8;
+color:#cfd8e8;
+}
+
+.hero-buttons button{
+padding:15px 35px;
+border:none;
+border-radius:30px;
+font-size:18px;
+cursor:pointer;Enter**{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
+scroll-behavior:smooth;
+}
+
+body{
+background:#081221;
+color:white;
+}
+
+header{
+position:fixed;
+top:0;
+left:0;
+width:100%;
+padding:18px 8%;
+display:flex;
+justify-content:space-between;
+align-items:center;
+background:#0c1830;
+z-index:1000;
+box-shadow:0 4px 15px rgba(0,0,0,.3);
+}
+
+.logo{
+display:flex;
+align-items:center;
+gap:12px;
+font-size:28px;
+font-weight:bold;
+color:#4cc9ff;
+}
+
+.logo i{
+font-size:34px;
+}
+
+nav{
+display:flex;
+gap:25px;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+font-weight:500;
+transition:.3s;
+}
+
+nav a:hover{
+color:#4cc9ff;
+}
+
+.login-btn{
+background:#4cc9ff;
+padding:10px 20px;
+border-radius:30px;
+color:#000;
+font-weight:bold;
+cursor:pointer;
+}
+
+.hero{
+padding:140px 8% 80px;
+display:flex;
+align-items:center;
+justify-content:space-between;
+gap:60px;
+flex-wrap:wrap;
+}
+
+.hero-text{
+flex:1;
+}
+
+.hero-text h1{
+font-size:60px;
+line-height:1.2;
+}
+
+.hero-text span{
+color:#4cc9ff;
+}
+
+.hero-text p{
+margin:25px 0;
+font-size:20px;
+line-height:1.8;
+color:#cfd8e8;
+}
+
+.hero-buttons button{
+padding:15px 35px;
+border:none;
+border-radius:30px;
+font-size:18px;
+cursor:pointer;Enterpointer;
